@@ -1,5 +1,5 @@
 ---
-title: "Hi all! I'm choiiis👋🏻"
+title: "Hi all! I'm junga👋🏻"
 permalink: /about/
 layout: single
 comments: false
@@ -16,7 +16,7 @@ comments: false
           <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">  Seoul, Korea</span>
         </li>
         <li>
-          <a href="https://github.com/choiiis" itemprop="sameAs" rel="nofollow noopener noreferrer">
+          <a href="https://github.com/wjddk7507" itemprop="sameAs" rel="nofollow noopener noreferrer">
             <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">  https://github.com/wjddk7507</span>
           </a>
         </li>
