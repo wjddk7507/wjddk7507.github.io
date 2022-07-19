@@ -6,7 +6,7 @@ comments: false
 ---
 
 <div>
-    <img src="/assets/images/avthm.jpg" alt="about_meee" width="70%" min-width="700px" itemprop="image">
+    <img src="/assets/images/about.jpg" alt="about_meee" width="70%" min-width="700px" itemprop="image">
 </div>
 
 
@@ -17,19 +17,19 @@ comments: false
         </li>
         <li>
           <a href="https://github.com/choiiis" itemprop="sameAs" rel="nofollow noopener noreferrer">
-            <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">  https://github.com/choiiis</span>
+            <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">  https://github.com/wjddk7507</span>
           </a>
         </li>
         <li>
-          <a href="mailto:bemychoiiis@gmail.com">
-            <meta itemprop="email" content="bemychoiiis@gmail.com" />
-            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">  bemychoiiis@gmail.com</span>
+          <a href="mailto:wjddk7507@naver.com">
+            <meta itemprop="email" content="wjddk7507@naver.com" />
+            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">  wjddk7507@naver.com</span>
           </a>
         </li>
-        <li>
+        <!-- <li>
           <a href="https://www.instagram.com/choiiis.dev/" itemprop="sameAs" rel="nofollow noopener noreferrer">
             <i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">  https://www.instagram.com/choiiis.dev/</span>
           </a>
-        </li>
+        </li> -->
     </ul>
   </div>
