@@ -1,5 +1,5 @@
 ---
-title:  "인증방식? JWT란?"
+title:  "[JWT] 인증방식? JWT란?"
 excerpt: "인증방식이 필요한 이유와 토큰 기반 인증 방식 JWT"
 
 categories:
